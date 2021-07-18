@@ -1,0 +1,38 @@
+[>] Performing dichotomic search to find maximum URL length ...
+[+] Found maximum URL length 1994
+[monitoring] (0000/8192)  0.00 % | Rate   0 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0206/8192)  2.51 % | Rate 103 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0306/8192)  3.74 % | Rate  50 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0499/8192)  6.09 % | Rate  96 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0643/8192)  7.85 % | Rate  72 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0838/8192) 10.23 % | Rate  97 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1069/8192) 13.05 % | Rate 115 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1255/8192) 15.32 % | Rate  93 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1531/8192) 18.69 % | Rate 138 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1859/8192) 22.69 % | Rate 164 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2098/8192) 25.61 % | Rate 119 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2294/8192) 28.00 % | Rate  98 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2571/8192) 31.38 % | Rate 138 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2777/8192) 33.90 % | Rate 103 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3020/8192) 36.87 % | Rate 121 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3310/8192) 40.41 % | Rate 145 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3495/8192) 42.66 % | Rate  92 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3751/8192) 45.79 % | Rate 128 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4059/8192) 49.55 % | Rate 154 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4350/8192) 53.10 % | Rate 145 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4608/8192) 56.25 % | Rate 129 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4854/8192) 59.25 % | Rate 123 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5062/8192) 61.79 % | Rate 104 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5343/8192) 65.22 % | Rate 140 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5671/8192) 69.23 % | Rate 164 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5944/8192) 72.56 % | Rate 136 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6234/8192) 76.10 % | Rate 145 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6487/8192) 79.19 % | Rate 126 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6730/8192) 82.15 % | Rate 121 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6991/8192) 85.34 % | Rate 130 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7146/8192) 87.23 % | Rate  77 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7427/8192) 90.66 % | Rate 140 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7742/8192) 94.51 % | Rate 157 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (8037/8192) 98.11 % | Rate 147 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+
+[>] All done! Remote server at http://192.168.1.27:10080 should not be responding anymore.

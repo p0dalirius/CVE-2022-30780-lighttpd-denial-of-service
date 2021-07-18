@@ -1,0 +1,42 @@
+[>] Performing dichotomic search to find maximum URL length ...
+[+] Found maximum URL length 8068
+[monitoring] (0000/8192)  0.00 % | Rate   0 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0083/8192)  1.01 % | Rate  41 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0164/8192)  2.00 % | Rate  40 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0251/8192)  3.06 % | Rate  43 req/s | ConnectTimeout:0000 | ReadTimeout:0074       
+[monitoring] (0350/8192)  4.27 % | Rate  49 req/s | ConnectTimeout:0000 | ReadTimeout:0160       
+[monitoring] (0430/8192)  5.25 % | Rate  40 req/s | ConnectTimeout:0000 | ReadTimeout:0238       
+[monitoring] (0523/8192)  6.38 % | Rate  46 req/s | ConnectTimeout:0000 | ReadTimeout:0313       
+[monitoring] (0615/8192)  7.51 % | Rate  46 req/s | ConnectTimeout:0000 | ReadTimeout:0405       
+[monitoring] (0693/8192)  8.46 % | Rate  39 req/s | ConnectTimeout:0000 | ReadTimeout:0499       
+[monitoring] (0776/8192)  9.47 % | Rate  41 req/s | ConnectTimeout:0000 | ReadTimeout:0568       
+[monitoring] (0889/8192) 10.85 % | Rate  56 req/s | ConnectTimeout:0000 | ReadTimeout:0670       
+[monitoring] (0978/8192) 11.94 % | Rate  44 req/s | ConnectTimeout:0000 | ReadTimeout:0750       
+[monitoring] (1051/8192) 12.83 % | Rate  36 req/s | ConnectTimeout:0000 | ReadTimeout:0816       
+[monitoring] (1144/8192) 13.96 % | Rate  46 req/s | ConnectTimeout:0000 | ReadTimeout:0900       
+[monitoring] (1233/8192) 15.05 % | Rate  44 req/s | ConnectTimeout:0000 | ReadTimeout:0980       
+[monitoring] (1330/8192) 16.24 % | Rate  48 req/s | ConnectTimeout:0000 | ReadTimeout:1075       
+[monitoring] (1405/8192) 17.15 % | Rate  37 req/s | ConnectTimeout:0000 | ReadTimeout:1150       
+[monitoring] (1489/8192) 18.18 % | Rate  42 req/s | ConnectTimeout:0000 | ReadTimeout:1234       
+[monitoring] (1563/8192) 19.08 % | Rate  37 req/s | ConnectTimeout:0000 | ReadTimeout:1308       
+[monitoring] (1664/8192) 20.31 % | Rate  50 req/s | ConnectTimeout:0000 | ReadTimeout:1409       
+[monitoring] (1745/8192) 21.30 % | Rate  40 req/s | ConnectTimeout:0000 | ReadTimeout:1490       
+[monitoring] (1821/8192) 22.23 % | Rate  38 req/s | ConnectTimeout:0000 | ReadTimeout:1566       
+[monitoring] (1906/8192) 23.27 % | Rate  42 req/s | ConnectTimeout:0000 | ReadTimeout:1651       
+[monitoring] (2081/8192) 25.40 % | Rate  87 req/s | ConnectTimeout:0000 | ReadTimeout:1826       
+[monitoring] (2162/8192) 26.39 % | Rate  40 req/s | ConnectTimeout:0000 | ReadTimeout:1907       
+[monitoring] (2214/8192) 27.03 % | Rate  26 req/s | ConnectTimeout:0000 | ReadTimeout:1959       
+[monitoring] (2283/8192) 27.87 % | Rate  34 req/s | ConnectTimeout:0000 | ReadTimeout:2028       
+[monitoring] (2386/8192) 29.13 % | Rate  51 req/s | ConnectTimeout:0000 | ReadTimeout:2131       
+[monitoring] (2536/8192) 30.96 % | Rate  75 req/s | ConnectTimeout:0000 | ReadTimeout:2281       
+[monitoring] (2592/8192) 31.64 % | Rate  28 req/s | ConnectTimeout:0000 | ReadTimeout:2337       
+[monitoring] (2671/8192) 32.60 % | Rate  39 req/s | ConnectTimeout:0061 | ReadTimeout:2355       
+[monitoring] (2811/8192) 34.31 % | Rate  70 req/s | ConnectTimeout:0186 | ReadTimeout:2370       
+[monitoring] (2908/8192) 35.50 % | Rate  48 req/s | ConnectTimeout:0282 | ReadTimeout:2371       
+[monitoring] (2978/8192) 36.35 % | Rate  35 req/s | ConnectTimeout:0351 | ReadTimeout:2372       
+[monitoring] (3072/8192) 37.50 % | Rate  47 req/s | ConnectTimeout:0445 | ReadTimeout:2372  (sockets disabled, connection limit reached)  
+[monitoring] (3230/8192) 39.43 % | Rate  79 req/s | ConnectTimeout:0603 | ReadTimeout:2372  (sockets disabled, connection limit reached)  
+[monitoring] (3309/8192) 40.39 % | Rate  39 req/s | ConnectTimeout:0682 | ReadTimeout:2372  (sockets disabled, connection limit reached)  
+[monitoring] (3376/8192) 41.21 % | Rate  33 req/s | ConnectTimeout:0749 | ReadTimeout:2372  (sockets disabled, connection limit reached)  
+
+[>] All done! Remote server at http://192.168.1.27:10080 should not be responding anymore.

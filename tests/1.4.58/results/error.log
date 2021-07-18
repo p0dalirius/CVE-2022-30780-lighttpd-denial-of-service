@@ -1,0 +1,4 @@
+2021-07-17 09:25:58: server.c.1508) server started (lighttpd/1.4.58)
+2021-07-17 09:25:58: configfile.c.1140) WARNING: unknown config-key: compress.cache-dir (ignored)
+2021-07-17 09:25:58: configfile.c.1140) WARNING: unknown config-key: compress.filetype (ignored)
+2021-07-17 09:26:25: server.c.975) [note] sockets disabled, connection limit reached

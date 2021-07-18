@@ -1,0 +1,3 @@
+[>] Performing dichotomic search to find maximum URL length ...
+[!] Could not determine maximum URL length.
+[!] Maybe we can't connect to this URL or this lighttpd is not vulnerable?

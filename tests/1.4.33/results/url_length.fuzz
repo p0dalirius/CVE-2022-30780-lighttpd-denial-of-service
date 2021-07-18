@@ -1,0 +1,12 @@
+[+] Dichotomic search of maximum URL lenght ...
+   [>] Testing URL lenght 1000, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1500, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1750, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1875, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1937, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1968, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1983, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1990, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1993, (ConnectionError => ConnectionError)
+   [>] Testing URL lenght 1994, (ConnectionError => ConnectionError)
+[+] Found maximum URL lenght 1994

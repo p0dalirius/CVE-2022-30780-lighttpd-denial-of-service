@@ -1,0 +1,44 @@
+[>] Performing dichotomic search to find maximum URL length ...
+[+] Found maximum URL length 1994
+[monitoring] (0000/8192)  0.00 % | Rate   0 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0102/8192)  1.25 % | Rate  51 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0186/8192)  2.27 % | Rate  42 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0261/8192)  3.19 % | Rate  37 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0444/8192)  5.42 % | Rate  91 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0508/8192)  6.20 % | Rate  32 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0608/8192)  7.42 % | Rate  50 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0658/8192)  8.03 % | Rate  25 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0720/8192)  8.79 % | Rate  31 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (0909/8192) 11.10 % | Rate  94 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1114/8192) 13.60 % | Rate 102 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1341/8192) 16.37 % | Rate 113 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1408/8192) 17.19 % | Rate  33 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1547/8192) 18.88 % | Rate  69 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1716/8192) 20.95 % | Rate  84 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (1959/8192) 23.91 % | Rate 121 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2208/8192) 26.95 % | Rate 124 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2478/8192) 30.25 % | Rate 135 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2689/8192) 32.82 % | Rate 105 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (2902/8192) 35.42 % | Rate 106 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3169/8192) 38.68 % | Rate 133 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3351/8192) 40.91 % | Rate  91 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3621/8192) 44.20 % | Rate 135 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (3890/8192) 47.49 % | Rate 134 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4074/8192) 49.73 % | Rate  92 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4385/8192) 53.53 % | Rate 155 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4702/8192) 57.40 % | Rate 158 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (4849/8192) 59.19 % | Rate  73 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5129/8192) 62.61 % | Rate 140 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5383/8192) 65.71 % | Rate 127 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5728/8192) 69.92 % | Rate 172 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (5889/8192) 71.89 % | Rate  80 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6210/8192) 75.81 % | Rate 160 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6504/8192) 79.39 % | Rate 147 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6758/8192) 82.50 % | Rate 127 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (6855/8192) 83.68 % | Rate  48 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7119/8192) 86.90 % | Rate 132 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7420/8192) 90.58 % | Rate 150 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (7755/8192) 94.67 % | Rate 167 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+[monitoring] (8113/8192) 99.04 % | Rate 179 req/s | ConnectTimeout:0000 | ReadTimeout:0000       
+
+[>] All done! Remote server at http://192.168.1.27:10080 should not be responding anymore.
